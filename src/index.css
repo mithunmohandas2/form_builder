@@ -7,3 +7,13 @@
 * {
   font-family: 'Roboto', sans-serif;
 }
+
+.custom-popup {
+  text-align: left;
+  padding: 10px;
+}
+
+.custom-popup p {
+  margin-bottom: 14px;
+  line-height: 1.2;
+}

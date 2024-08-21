@@ -1,5 +1,10 @@
 export const controlsList = [
     {
+        type: "headings",
+        text: "Heading",
+        icon: "headings.svg",
+    },
+    {
         type: "label",
         text: "Label",
         icon: "text.svg",
@@ -43,11 +48,6 @@ export const controlsList = [
         type: "info",
         text: "Info/Alerts",
         icon: "info.svg",
-    },
-    {
-        type: "headings",
-        text: "Headings",
-        icon: "headings.svg",
     },
     {
         type: "submit",
